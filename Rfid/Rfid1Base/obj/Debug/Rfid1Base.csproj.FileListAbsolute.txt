@@ -1,0 +1,10 @@
+P:\InformatiqueS3\Rfid\Rfid1Base\bin\Debug\Rfid1Base.exe.config
+P:\InformatiqueS3\Rfid\Rfid1Base\bin\Debug\Rfid1Base.exe
+P:\InformatiqueS3\Rfid\Rfid1Base\bin\Debug\Rfid1Base.pdb
+P:\InformatiqueS3\Rfid\Rfid1Base\obj\Debug\Rfid1Base.csproj.AssemblyReference.cache
+P:\InformatiqueS3\Rfid\Rfid1Base\obj\Debug\Rfid1Base.CRfid.resources
+P:\InformatiqueS3\Rfid\Rfid1Base\obj\Debug\Rfid1Base.Properties.Resources.resources
+P:\InformatiqueS3\Rfid\Rfid1Base\obj\Debug\Rfid1Base.csproj.GenerateResource.cache
+P:\InformatiqueS3\Rfid\Rfid1Base\obj\Debug\Rfid1Base.csproj.CoreCompileInputs.cache
+P:\InformatiqueS3\Rfid\Rfid1Base\obj\Debug\Rfid1Base.exe
+P:\InformatiqueS3\Rfid\Rfid1Base\obj\Debug\Rfid1Base.pdb
