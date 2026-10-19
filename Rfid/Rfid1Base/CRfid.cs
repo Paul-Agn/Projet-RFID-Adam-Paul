@@ -15,8 +15,13 @@ namespace Rfid1Base
         public CRfid()
         {
             InitializeComponent();
-
-            this.m_serialPortRfid.Open();
+            try {
+                this.m_serialPortRfid.Open();
+            }
+            catch (Exception x_exception) {
+                MessageBox.Show(x_exception.Message);
+            }
+            
             Control.CheckForIllegalCrossThreadCalls = false;
 
             private int LectureNumeroCarte()
